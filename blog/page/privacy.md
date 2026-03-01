@@ -8,7 +8,7 @@ description: "Privacy Policy for Uzen"
 
 ### 1. Introduction
 
-Welcome to **Uzen**. We respect your privacy and are committed to protecting your personal data. This privacy policy will inform you as to how we look after your personal data when you visit our website and tell you about your privacy rights and how the law protects you.
+Welcome to **Marklog**. We respect your privacy and are committed to protecting your personal data. This privacy policy will inform you as to how we look after your personal data when you visit our website and tell you about your privacy rights and how the law protects you.
 
 ### 2. Information We Collect
 
