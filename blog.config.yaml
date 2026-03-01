@@ -1,6 +1,7 @@
 title: "Marklog-example"
 description: "Creator of Marklog"
 theme: "ghibli" # Try: light, dark, ghibli, pixel
+language: "zh-cn"
 author:
   name: Jask
   bio: Full stack developer & pixel artist
