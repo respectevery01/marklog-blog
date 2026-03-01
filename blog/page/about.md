@@ -65,7 +65,7 @@ Links look like this: [Visit our website](https://marklog.xyz).
 
 ---
 
-## Code Blocks (macOS Terminal Style)
+## Code Blocks
 
 ### JavaScript
 
@@ -123,6 +123,7 @@ The line above is a horizontal rule, created with three dashes `---`.
 - [x] Completed task
 - [ ] Incomplete task
 - [ ] Another incomplete task
+
 
 
 
