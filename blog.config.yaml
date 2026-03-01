@@ -1,10 +1,10 @@
 title: "Marklog-example"
 description: "Creator of Marklog"
-theme: "ghibli" # Try: light, dark, ghibli, pixel
+theme: "dark" # Try: light, dark, ghibli, pixel
 language: "en" # en or zh-cn
 author:
   name: Jask
-  bio: Full stack developer & pixel artist
+  bio: Creator of Marklog
   avatar: https://avatars.githubusercontent.com/u/67848850?v=4
 social:
   github: https://github.com/respectevery01
