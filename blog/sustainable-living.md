@@ -4,7 +4,7 @@ description: "Practical tips for reducing your carbon footprint."
 date: 2023-10-20
 author: "John Smith"
 image: 
-    url: "https://unsplash.com/photos/a-green-fluffy-star-shaped-object-with-small-white-flowers-ALGlMZ5OiVQ"
+    url: "https://images.unsplash.com/photo-1772219341824-df939c3552e8"
     alt: "Green plants"
 category: "Lifestyle"
 featured: false
