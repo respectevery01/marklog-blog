@@ -3,9 +3,6 @@ title: "about"
 description: "about"
 
 ---
-
-# About
-
 # Heading Level 1
 
 This is a paragraph under Heading 1. It is typically used for the main title of the document, but can be used within the content as well.
@@ -126,3 +123,4 @@ The line above is a horizontal rule, created with three dashes `---`.
 - [x] Completed task
 - [ ] Incomplete task
 - [ ] Another incomplete task
+
