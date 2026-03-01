@@ -1,5 +1,5 @@
 ---
-title: "about"
+title: "About"
 description: "about"
 
 ---
@@ -123,4 +123,5 @@ The line above is a horizontal rule, created with three dashes `---`.
 - [x] Completed task
 - [ ] Incomplete task
 - [ ] Another incomplete task
+
 
