@@ -1,6 +1,6 @@
 ---
 title: "Privacy Policy"
-description: "Privacy Policy for Uzen"
+description: "Privacy Policy for Marklog"
 
 ---
 
