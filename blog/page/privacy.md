@@ -4,7 +4,7 @@ description: "Privacy Policy for Marklog"
 
 ---
 
-**Last Updated: [Current Date]**
+**Last Updated: 2026-03-01**
 
 ### 1. Introduction
 
