@@ -33,7 +33,7 @@ This is a paragraph under Heading 6.
 
 We support **bold text** for emphasis, *italic text* for slight emphasis, and ~~strikethrough~~ for deleted text. You can also use `inline code` for technical terms.
 
-Links look like this: [Visit our website](https://example.com).
+Links look like this: [Visit our website](https://marklog.xyz).
 
 ---
 
@@ -123,5 +123,6 @@ The line above is a horizontal rule, created with three dashes `---`.
 - [x] Completed task
 - [ ] Incomplete task
 - [ ] Another incomplete task
+
 
 
