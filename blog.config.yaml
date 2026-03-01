@@ -1,6 +1,6 @@
 title: "Marklog-example"
 description: "Creator of Marklog"
-theme: "dark" # Try: light, dark, ghibli, pixel
+theme: "pixel" # Try: light, dark, ghibli, pixel
 author:
   name: Jask
   bio: Full stack developer & pixel artist
