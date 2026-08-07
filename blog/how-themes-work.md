@@ -5,12 +5,15 @@ date: 2024-03-15
 author: "Jask"
 category: "Design"
 featured: false
+image:
+  url: "https://images.unsplash.com/photo-1502691876148-a84978e59af8?w=800&h=400&fit=crop"
+  alt: "Colorful paint swatches fanned out"
 tags: ["themes", "css", "design"]
 ---
 
 # How Marklog Themes Work
 
-Marklog themes are just CSS files. No build step, no preprocessor, no JavaScript theme switcher.
+Marklog themes are just CSS variables. No build step, no preprocessor, no JavaScript theme switcher.
 
 ## How to use a theme
 
@@ -22,7 +25,7 @@ theme: ghibli
 
 Options: `light`, `dark`, `ghibli`, `pixel`.
 
-That's it. The theme CSS loads from the Marklog server.
+That's it. The theme applies automatically.
 
 ## What each theme looks like
 
@@ -33,6 +36,4 @@ That's it. The theme CSS loads from the Marklog server.
 
 ## Contributing a theme
 
-Themes live in the `public/themes/` directory. Each theme is one CSS file using CSS custom properties.
-
-Fork the repo, add `public/themes/your-theme.css`, submit a PR. If it looks good, it ships.
+Themes are defined as CSS custom properties. Fork the repo, add your variables, submit a PR. If it looks good, it ships.
