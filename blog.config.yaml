@@ -1,10 +1,10 @@
-title: "Marklog-example"
-description: "Creator of Marklog"
-theme: "light" # Try: light, dark, ghibli, pixel
-language: "en" # en or zh-cn
+title: "Marklog"
+description: "Write in Markdown, store in GitHub."
+theme: "light"
+language: "en"
 author:
   name: Jask
-  bio: Creator of Marklog
+  bio: Developer. Writes about code and tools.
   avatar: https://avatars.githubusercontent.com/u/67848850?v=4
 social:
   github: https://github.com/respectevery01
