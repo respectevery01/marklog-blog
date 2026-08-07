@@ -5,6 +5,10 @@ date: 2024-03-01
 author: "Jask"
 category: "Technology"
 featured: true
+image:
+  url: "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&h=400&fit=crop"
+  alt: "Open laptop with text editor on a wooden desk"
+tags: ["marklog", "blogging", "opensource"]
 ---
 
 # Why I Built Marklog
