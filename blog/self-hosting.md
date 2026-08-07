@@ -5,6 +5,9 @@ date: 2024-03-10
 author: "Jask"
 category: "Tutorial"
 featured: false
+image:
+  url: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&h=400&fit=crop"
+  alt: "Server racks in a data center"
 tags: ["deployment", "vercel", "self-hosting"]
 ---
 
