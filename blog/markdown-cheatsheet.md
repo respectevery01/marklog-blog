@@ -5,6 +5,9 @@ date: 2024-03-05
 author: "Jask"
 category: "Guide"
 featured: false
+image:
+  url: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800&h=400&fit=crop"
+  alt: "Close-up of code on a computer screen"
 tags: ["markdown", "writing", "guide"]
 ---
 
